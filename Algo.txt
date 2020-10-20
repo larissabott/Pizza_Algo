@@ -1,2 +1,4 @@
 Call pizza place
 Chose type of pizza
+    2.a pepperoni and green peppers
+    2.b pepperoni and spinich
